@@ -43,6 +43,7 @@ Stats <img src="https://user-images.githubusercontent.com/66436951/198939623-71f
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square" alt="Go Badge">
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square" alt="C Badge">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
