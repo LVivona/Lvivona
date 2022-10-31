@@ -1,4 +1,5 @@
-<H2 align="center">Welcome</H2>
+<H2 align="center">Hello World... <img src="https://user-images.githubusercontent.com/66436951/198939885-23299a01-1e61-48e2-a066-ba780406d1ef.gif" width="30"/></H2>
+
 
 ```python
 if __name__ == "__main__":
@@ -24,6 +25,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<H2 align="center"> <img src="https://user-images.githubusercontent.com/66436951/198939623-71f46b85-c2e1-4135-b78b-38c95b6cb2c1.gif" width="30" height="30"/>
+Stats <img src="https://user-images.githubusercontent.com/66436951/198939623-71f46b85-c2e1-4135-b78b-38c95b6cb2c1.gif" width="30" height="30"/></H2>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVivona&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+<div style="display: flex; flex-direction: row;">
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=LVivona&show_icons=true&theme=radical"/>
+<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=LVivona&theme=radical&fire=DD7122"/>
+</div>
+    
+</div>
+
 <H2 align="center">🛠️ Tools and Languages</H2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
@@ -44,19 +59,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
 </p>
-
-<H2 align="center">🔥 Stats 🔥</H2>
-<div align="left">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVivona&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LVivona&show_icons=true&theme=radical)
-
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LVivona&theme=radical&fire=DD7122)](https://git.io/streak-stats)
-
-</div>
-
-
