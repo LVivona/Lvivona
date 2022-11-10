@@ -8,7 +8,7 @@ if __name__ == "__main__":
     print("- 🔭 I’m currently working on collaborative tools 💻<->💻")
     print("- 🌱 I’m currently learning about MLP, RNN, CNN, and Transformers")
     print("- 🤔 I’m looking for help with my understanding of ML")
-     print("- 📫 How to reach me: [email] lucavivona01@gmail.com")
+    print("- 📫 How to reach me: [email] lucavivona01@gmail.com")
     # ===================================
 
 ```
