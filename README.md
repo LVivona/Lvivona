@@ -1,4 +1,4 @@
-<H2 align="center">Hello World... <img src="https://user-images.githubusercontent.com/66436951/198939885-23299a01-1e61-48e2-a066-ba780406d1ef.gif" width="30"/></H2>
+<H2 align="center">Hello World...👋</H2>
 
 
 ```python
