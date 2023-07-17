@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <H2 align="center"> <img src="https://user-images.githubusercontent.com/66436951/198939623-71f46b85-c2e1-4135-b78b-38c95b6cb2c1.gif" width="30" height="30"/>
 Stats <img src="https://user-images.githubusercontent.com/66436951/198939623-71f46b85-c2e1-4135-b78b-38c95b6cb2c1.gif" width="30" height="30"/></H2>
 <div align="center">
@@ -39,7 +40,7 @@ Stats <img src="https://user-images.githubusercontent.com/66436951/198939623-71f
 <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=LVivona&theme=radical&fire=DD7122"/>
 </div>
     
-</div>
+</div> -->
 
 <H2 align="center">🛠️ Tools and Languages</H2>
 <p align="center">
