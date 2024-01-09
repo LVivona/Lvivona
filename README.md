@@ -6,12 +6,26 @@ if __name__ == "__main__":
     print("Hello there 👋")
     # info ==============================
     print("- 🔭 I’m currently working on collaborative tools 💻<->💻")
-    print("- 🌱 I’m currently learning about MLP, RNN, CNN, and Transformers")
+    print("- 🤿 I'm diving deep in the low-level of computer in search for better ML inference.")
     print("- 🤔 I’m looking for help with my understanding of ML")
     print("- 📫 How to reach me: [email] lucavivona01@gmail.com")
     # ===================================
 
 ```
+
+<H2 align="center"> <img src="https://user-images.githubusercontent.com/66436951/198939623-71f46b85-c2e1-4135-b78b-38c95b6cb2c1.gif" width="30" height="30"/>
+Stats <img src="https://user-images.githubusercontent.com/66436951/198939623-71f46b85-c2e1-4135-b78b-38c95b6cb2c1.gif" width="30" height="30"/></H2>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVivona&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+<div style="display: flex; flex-direction: row;">
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=LVivona&show_icons=true&theme=radical"/>
+<img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=LVivona&theme=radical&fire=DD7122"/>
+</div>
+    
+</div> 
 <!--
 **LVivona/Lvivona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
